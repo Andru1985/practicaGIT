@@ -14,7 +14,8 @@ if 0 < x < 10:
 # ejercicio
 """"el profesor le indica a diego que durante el curso se sacaron cuatro notas y todas tienen el mismo valor,Ademas le solicita que debe elaborar un programa 
 le ayude a calcular si aprobo o debe recuperar la materia no solo a el si no a todos sus compañeros para esto debe planificar correctamente un codigo en python 
-que les ayude automizar esta nota.""""
+que les ayude automizar esta nota."""""
+
 nota1=2.9
 nota2=3.8
 nota3=3.0
